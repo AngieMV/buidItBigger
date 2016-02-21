@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Jokes Library</string>
+    <string name="error">There was a problem trying to get the joke... duh!</string>
+</resources>
